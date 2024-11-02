@@ -1,4 +1,3 @@
-import requests
 from tkinter import *
 
 def soma_numero():
